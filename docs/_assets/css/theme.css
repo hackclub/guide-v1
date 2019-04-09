@@ -28,3 +28,7 @@
 
   --base-font-size: 1.35rem;
 }
+
+p.docsify-edit-link {
+  margin: 2em 0 0 0;
+}

@@ -1,4 +1,4 @@
-# Common Questions
+# Common Questions{docsify-ignore-all}
 
 ## What if I can't call my club "Hack Club"?
 

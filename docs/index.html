@@ -33,15 +33,24 @@
         name: "Leadership Guide",
         logo: "/_media/branding/favicon.svg",
         loadSidebar: true,
+        maxLevel: 3,
+        subMaxLevel: 2,
+        auto2top: true,
         search: {
           placeholder: "Type to search",
           noData: "No Results!",
           depth: 2,
           hideOtherSidebarContent: true
+        },
+        editLink: {
+          text: "Contribute to This Page",
+          repo: "hackclub/guide",
+          cssClass: "docsify-edit-link"
         }
       };
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="/_assets/js/editLink.js"></script>
   </body>
 </html>
