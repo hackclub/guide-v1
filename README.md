@@ -4,6 +4,8 @@ Hack Club's New Leadership Handbook—Still WIP 🚧
 
 Built with [docsify](https://docsify.js.org/).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98e799c0-63d2-4d09-98d4-e1cc6122c4b7/deploy-status)](https://app.netlify.com/sites/hackclub-guide/deploys)
+
 ## Setup
 
 1. Clone the repository and enter it
