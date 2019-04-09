@@ -1,0 +1,12 @@
+{
+  "name": "guide",
+  "version": "1.0.0",
+  "description": "Hack Club's new leadership handbook",
+  "main": "index.js",
+  "repository": "https://github.com/hackclub/guide.git",
+  "author": "Mingjie Jiang <jiang@mingjie.info>",
+  "license": "MIT",
+  "dependencies": {
+    "docsify-cli": "^4.3.0"
+  }
+}
