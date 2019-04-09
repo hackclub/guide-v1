@@ -1,4 +1,4 @@
-# Leader's Guide
+# Leadership Guide
 
 Hack Club's New Leadership Handbook—Still WIP 🚧
 

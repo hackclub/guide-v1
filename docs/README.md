@@ -1,4 +1,4 @@
-# Hack Club Leaders' Guide
+# Hack Club Leadership Guide
 
 Welcome, leader! Thanks for starting a Hack Club, and we're super excited to have you here!
 
