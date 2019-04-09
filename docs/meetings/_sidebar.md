@@ -1,3 +1,5 @@
 - [Meeting Templates](/meetings/)
   - [First Meeting](/meetings/first_meeting.md)
   - [Second Meeting](/meetings/second_meeting.md)
+  - [Workshop Day](/meetings/workshop_day.md)
+  - [Hack Day](/meetings/hack_day.md)
