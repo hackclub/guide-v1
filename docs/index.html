@@ -32,9 +32,16 @@
       window.$docsify = {
         name: "Leader’s Guide",
         repo: "",
-        loadSidebar: true
+        loadSidebar: true,
+        search: {
+          placeholder: "Type to search",
+          noData: "No Results!",
+          depth: 2,
+          hideOtherSidebarContent: true
+        }
       };
     </script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   </body>
 </html>
