@@ -19,9 +19,12 @@
   --sidebar-nav-link-color--hover: #ffffff;
 
   --heading-h1-font-weight: 600;
-  --heading-h2-font-weight: 600;
+  --heading-h1-font-size: 2rem;
 
-  --sidebar-width: 20rem;
+  --heading-h2-font-weight: 600;
+  --heading-h2-font-size: 1.5rem;
+
+  --sidebar-width: 18rem;
 
   --base-font-size: 1.2rem;
 }
