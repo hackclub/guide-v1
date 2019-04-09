@@ -27,6 +27,8 @@
   --sidebar-width: 18rem;
 
   --base-font-size: 1.35rem;
+
+  --search-margin: 0.5rem 0;
 }
 
 p.footer {
