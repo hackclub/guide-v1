@@ -1,0 +1,27 @@
+/**
+    Custom Theme Styles
+*/
+
+:root {
+  --theme-color: #e42d42;
+
+  --base-font-family: "Phantom Sans", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  --mono-saturation: 0%;
+
+  --sidebar-name-color: #ffffff;
+  --sidebar-name-font-size: 1.8rem;
+  --sidebar-name-font-weight: 700;
+
+  --sidebar-nav-link-color: #a3a3a3;
+  --sidebar-nav-link-color--active: #ffffff;
+  --sidebar-nav-link-color--hover: #ffffff;
+
+  --heading-h1-font-weight: 600;
+  --heading-h2-font-weight: 600;
+
+  --sidebar-width: 20rem;
+
+  --base-font-size: 1.2rem;
+}

@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Phantom Sans';
+    src:    url('Phantom_Sans_0.4-Bold.woff') format('woff'),
+            url('Phantom_Sans_0.4-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Phantom Sans';
+    src:    url('Phantom_Sans_0.4-Book.woff') format('woff'),
+            url('Phantom_Sans_0.4-Book.woff2') format('woff2');
+    font-weight: 350;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Phantom Sans';
+    src:    url('Phantom_Sans_0.4-Medium.woff') format('woff'),
+            url('Phantom_Sans_0.4-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Phantom Sans';
+    src:    url('Phantom_Sans_0.4-Regular.woff') format('woff'),
+            url('Phantom_Sans_0.4-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Phantom Sans';
+    src:    url('Phantom_Sans_0.4-Semibold.woff') format('woff'),
+            url('Phantom_Sans_0.4-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
