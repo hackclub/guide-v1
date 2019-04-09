@@ -1,3 +1,4 @@
 - [Home](/)
 - [Planning Your Hack Club](/plan/)
 - [Meeting Templates](/meetings/)
+- [Common Questions](/faq.md)
