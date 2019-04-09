@@ -1,2 +1,3 @@
 - [Home](/)
 - [Planning Your Hack Club](/plan/)
+- [Meeting Templates](/meetings/)

@@ -1,0 +1,3 @@
+- [Meeting Templates](/meetings/)
+  - [First Meeting](/meetings/first_meeting.md)
+  - [Second Meeting](/meetings/second_meeting.md)
