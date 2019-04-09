@@ -29,6 +29,21 @@
   --base-font-size: 1.35rem;
 }
 
-p.docsify-edit-link {
-  margin: 1.5em 0 0 0;
+p.footer {
+  text-align: right;
+  margin: 2em 0 0 0;
+  font-size: 80%;
+  color: #a0a0a0;
+  position: relative;
+  padding-top: 0.5em;
+}
+
+p.footer:before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 1px;
+  width: 3.5rem;
+  border-top: 1px solid #595959;
 }

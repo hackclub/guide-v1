@@ -16,10 +16,11 @@ function normalizeGithubUrl(url) {
 }
 
 function install(hook, vm) {
-  var editLinkConfig = vm.config.editLink || {};
-  var text = editLinkConfig.text || "Edit this page";
-  var cssClass = editLinkConfig.cssClass || "edit-link";
-  var repoUrl = normalizeGithubUrl(editLinkConfig.repo || vm.config.repo);
+  var footerConfig = vm.config.footer || {};
+  var text = footerConfig.text || "Edit this page";
+  var cssClass = footerConfig.cssClass || "edit-link";
+  var repoUrl = normalizeGithubUrl(footerConfig.repo || vm.config.repo);
+  var custom = footerConfig.custom;
 
   if (!repoUrl) {
     throw Error("$docsify.editLink.repo is required. Fix your config.");
@@ -29,7 +30,9 @@ function install(hook, vm) {
     var editLink =
       '<p class="' +
       cssClass +
-      '" style="text-align: right;">' +
+      '">' +
+      custom +
+      "<br />" +
       '<a href="' +
       repoUrl +
       vm.route.file +
