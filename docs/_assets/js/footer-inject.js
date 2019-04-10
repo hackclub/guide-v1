@@ -73,7 +73,7 @@ function submitFeedback() {
         console.log(json.feedback + ", " + json.pageUrl);
         document.getElementById("feedback-form").innerHTML = `
           <h4 style="color: #d3d3d3">Thanks for your feedback! We‘ll keep improving this leadership guide. In the mean time, if you have more questions or suggestions, 
-          feel free to talk to us in <a href="https://hackclub.slack.com/messages/C0C78SG9L/">#hq</a>!</h4>
+          feel free to chat with us in <a href="https://hackclub.slack.com/messages/C0C78SG9L/">#hq</a>!</h4>
         `;
       }
     };
