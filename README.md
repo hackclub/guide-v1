@@ -1,5 +1,7 @@
 # Leadership Guide
 
+<img src="docs/_media/branding/favicon.svg" width="100" alt="Flag Icon" align="right">
+
 Hack Club's New Leadership Handbook—Still WIP 🚧
 
 Built with [docsify](https://docsify.js.org/).
