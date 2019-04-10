@@ -50,3 +50,111 @@ p.footer:before {
   width: 3.5rem;
   border-top: 1px solid #595959;
 }
+
+textarea.feedback {
+  width: 100%;
+  min-height: 5rem;
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-image: none;
+  border-radius: 4px;
+  border-style: none;
+  font-size: 1em;
+  line-height: 1.4em;
+  padding: 5px 8px;
+  transition: background-color 0.2s ease 0s;
+}
+
+.wrap-collabsible {
+  margin-top: 2rem;
+  margin-bottom: 1.2rem 0;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-size: 0.9rem;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle::before {
+  content: " ";
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: 0.7rem;
+  transform: translateY(-2px);
+
+  transition: transform 0.2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 0.25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 350px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: 0.5rem 1rem;
+}
+
+a.btn.submit {
+  padding-left: 21px;
+  padding-right: 21px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  background-color: rgb(86, 86, 86, 1);
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  font-family: inherit;
+  font-weight: bold;
+  line-height: 1;
+  -webkit-appearance: none;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.125) 0px 2px 4px;
+  margin: 0px;
+  text-decoration: none;
+  transition: box-shadow 0.1875s cubic-bezier(0.375, 0, 0.675, 1) 0s;
+  border-radius: 9999px;
+  border-width: initial;
+  border-style: none;
+  border-color: initial;
+  border-image: initial;
+}
+
+a.btn.submit:hover,
+a.btn.submit:focus {
+  box-shadow: rgba(96, 110, 119, 0.25) 0px 2px 6px;
+  outline: 0px;
+}
