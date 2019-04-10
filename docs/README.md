@@ -8,7 +8,7 @@ Starting a Hack Club is easy, but running a great club requires some thinking. O
 
 The guide is organized in sections, with each section containing information you need to go through a specific stage of running your club. We have also embedded examples of communication, presentation, or outlines that you may find helpful when planning your club meetings. If you are looking for something specific, you can also search the entire knowledge base.
 
-You should bookmark this guide! As your club grows, you'll find yourself in moments where you need to refer back to this guide. If you have co-leaders running a club with you, you should share this resource with them.
+?> You should bookmark this guide! As your club grows, you'll find yourself in moments where you need to refer back to these information. If you have co-leaders running a club with you, you should share this resource with them.
 
 ## Contributing
 
