@@ -31,7 +31,7 @@ function install(hook, vm) {
       `
       <div class="wrap-collabsible" id="feedback-form">
         <input id="collapsible" class="toggle" type="checkbox">
-        <label for="collapsible" class="lbl-toggle">Finding this guide helpful? Help us improve by sharing your thoughts!</label>
+        <label for="collapsible" class="lbl-toggle">Finding page guide helpful? Help us improve by sharing your thoughts!</label>
         <div class="collapsible-content">
           <div class="content-inner">
             <textarea name="feedback" id="feedback" class="feedback" placeholder="I want to see information about ..." /></textarea>
