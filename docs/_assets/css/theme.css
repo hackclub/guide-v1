@@ -1361,11 +1361,6 @@ body:not([data-platform^="Mac"]) .sidebar::-webkit-scrollbar {
 body:not([data-platform^="Mac"]) .sidebar::-webkit-scrollbar-thumb {
   border-radius: 50vw;
 }
-@supports (-webkit-font-smoothing: auto) {
-  body:not([data-platform^="Mac"]) .sidebar:hover > *:not(.sidebar-nav) {
-    margin-right: -5px;
-  }
-}
 body:not([data-platform^="Mac"]) .sidebar:hover::-webkit-scrollbar {
   width: 5px;
 }
