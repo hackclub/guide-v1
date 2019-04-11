@@ -5,4 +5,6 @@
   - [Second Meeting](/meetings/second_meeting.md)
   - [Workshop Day](/meetings/workshop_day.md)
   - [Hack Day](/meetings/hack_day.md)
+- [Running an Event](/events/)
+- [Club Logistics](/logistics/)
 - [Common Questions](/faq.md)

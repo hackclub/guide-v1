@@ -6,4 +6,6 @@
   - [Student Sign-ups](/plan/student_signups)
   - [Internet Connectivity](/plan/internet_connectivity)
 - [Meeting Templates](/meetings/)
+- [Running an Event](/events/)
+- [Club Logistics](/logistics/)
 - [Common Questions](/faq.md)
