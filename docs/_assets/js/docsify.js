@@ -4134,7 +4134,7 @@
 
     if (autoTitle) {
       $.title = target
-        ? target.title || target.innerText + " - " + title
+        ? target.title || target.innerText + " – " + title
         : title;
     }
 
