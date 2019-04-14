@@ -17,7 +17,8 @@ window.$docsify = {
     repo: "hackclub/guide",
     cssClass: "footer",
     custom: `Made with 💖 by <a href="https://github.com/itsmingjie">@itsmingjie</a>.`
-  }
+  },
+  notFoundPage: true
 };
 
 /** Register Service Worker */
