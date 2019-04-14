@@ -4,7 +4,7 @@ The second meeting will pick up where the first left off. The majority of the
 meeting will be free-form time for hackers to continue expanding their portfolio
 websites. At the end of the meeting, everyone will come up to the front of the
 room and demo their website. As in the first meeting, bringing food is a good
-idea :wink:.
+idea 😉.
 
 [Click here][second_meeting_template] for our slideshow template for the second
 meeting. Make sure to [customize it](#slideshow-presentations).
