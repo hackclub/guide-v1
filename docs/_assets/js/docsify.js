@@ -354,7 +354,7 @@
           (config.logo
             ? "<img alt=" + config.name + " src=" + config.logo + ">"
             : config.name) +
-          "</a></h1>"
+          " <span>" + config.title + "</span></a></h1>"
         : "") +
       '<div class="sidebar-nav"><!--sidebar--></div>' +
       "</aside>";

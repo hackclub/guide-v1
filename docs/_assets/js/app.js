@@ -1,6 +1,7 @@
 /** Initialize Docsify */
 window.$docsify = {
   name: "Leadership Guide",
+  title: "Guide",
   logo: "/_media/branding/favicon.svg",
   loadSidebar: true,
   maxLevel: 3,

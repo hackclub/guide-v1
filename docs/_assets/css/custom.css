@@ -27,7 +27,7 @@
   --heading-h3-font-weight: 500;
   --heading-h3-font-size: 1.2rem;
 
-  --sidebar-width: 18rem;
+  --sidebar-width: 15rem;
   --sidebar-nav-margin: 0;
 
   --base-color: #dce1e4;
@@ -35,6 +35,19 @@
   --base-background-color: #17171d;
 
   --search-margin: 0.5rem 0;
+}
+
+h1.app-name {
+  text-align: left;
+}
+
+a.app-name-link span {
+  color: var(--theme-color);
+}
+
+a.app-name-link img {
+  vertical-align: text-bottom;
+  margin-right: 5px;
 }
 
 p.footer {
