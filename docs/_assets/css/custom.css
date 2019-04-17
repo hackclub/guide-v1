@@ -7,7 +7,8 @@
   --base-font-family: "Phantom Sans", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol";
-  --mono-saturation: 0%;
+  --mono-hue: 240;
+  --mono-saturation: 12%;
 
   --sidebar-name-color: #ffffff;
   --sidebar-name-font-size: 1.8rem;
@@ -21,12 +22,17 @@
   --heading-h1-font-size: 2rem;
 
   --heading-h2-font-weight: 600;
-  --heading-h2-font-size: 1.5rem;
+  --heading-h2-font-size: 1.6rem;
+
+  --heading-h3-font-weight: 500;
+  --heading-h3-font-size: 1.2rem;
 
   --sidebar-width: 18rem;
   --sidebar-nav-margin: 0;
 
+  --base-color: #dce1e4;
   --base-font-size: 1.35rem;
+  --base-background-color: #17171d;
 
   --search-margin: 0.5rem 0;
 }
