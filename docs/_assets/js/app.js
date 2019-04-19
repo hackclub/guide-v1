@@ -17,7 +17,7 @@ window.$docsify = {
     text: "Contribute to This Page",
     repo: "hackclub/guide",
     cssClass: "footer",
-    custom: `Made with 💖 by <a href="https://github.com/itsmingjie">@itsmingjie</a>.`
+    custom: `Made with 💖 by <a href="https://github.com/itsmingjie">@itsmingjie</a>. Licensed <a href="https://github.com/hackclub/guide/blob/master/LICENSE.md">MIT</a>.`
   },
   notFoundPage: true
 };
