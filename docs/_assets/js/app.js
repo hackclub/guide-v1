@@ -26,3 +26,24 @@ window.$docsify = {
 if (typeof navigator.serviceWorker !== "undefined") {
   navigator.serviceWorker.register("sw.js");
 }
+
+function switchTheme() {
+
+  var darkCss = document.getElementById("dark-theme");
+  var lightCss = document.getElementById("light-theme");
+
+  if (lightCss.disabled) {
+    // switch to light theme
+    lightCss.disabled = false;
+    darkCss.disabled = true;
+    localStorage.setItem("darkMode", "disabled");
+    document.getElementById("switcher-icon").setAttribute("src", "/_media/moon.svg");
+  } else {
+    // switch to dark theme
+    lightCss.disabled = true;
+    darkCss.disabled = false;
+    localStorage.setItem("darkMode", "enabled");
+    document.getElementById("switcher-icon").setAttribute("src", "/_media/moon-full.svg");
+  }
+
+}

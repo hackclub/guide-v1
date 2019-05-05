@@ -352,13 +352,16 @@
       (config.name
         ? '<h1 class="app-name"><a class="app-name-link" data-nosearch>' +
           (config.logo
-            ? "<img alt=" + config.name + " src=" + config.logo + ">"
+            ? "<img alt=" + config.name + " src=" + config.logo + "> "
             : config.name) +
-          " <span>" + config.title + "</span></a></h1>"
+          " <span>" +
+          config.title +
+          "</span></a>" +
+          '<a href="javascript:void(0)" onClick="switchTheme(); return false;" class="switch"><img id="switcher-icon" src="/_media/moon.svg" /></a>' +
+          "</h1>"
         : "") +
       '<div class="sidebar-nav"><!--sidebar--></div>' +
       "</aside>";
-
     return (
       (isMobile ? aside + "<main>" : "<main>" + aside) +
       '<section class="content">' +
@@ -5528,6 +5531,25 @@
    * Run Docsify
    */
   ready(function(_) {
-    return new Docsify();
+    new Docsify();
+
+    var darkCss = document.getElementById("dark-theme");
+    var lightCss = document.getElementById("light-theme");
+
+    if (localStorage.getItem("darkMode") == "enabled") {
+      lightCss.disabled = true;
+      darkCss.disabled = false;
+      document
+        .getElementById("switcher-icon")
+        .setAttribute("src", "/_media/moon-full.svg");
+    } else {
+      lightCss.disabled = false;
+      darkCss.disabled = true;
+      document
+        .getElementById("switcher-icon")
+        .setAttribute("src", "/_media/moon.svg");
+    }
+
+    return;
   });
 })();

@@ -10,13 +10,8 @@
   --mono-hue: 240;
   --mono-saturation: 12%;
 
-  --sidebar-name-color: #ffffff;
   --sidebar-name-font-size: 1.8rem;
   --sidebar-name-font-weight: 700;
-
-  --sidebar-nav-link-color: #a3a3a3;
-  --sidebar-nav-link-color--active: #ffffff;
-  --sidebar-nav-link-color--hover: #ffffff;
 
   --heading-h1-font-weight: 600;
   --heading-h1-font-size: 2rem;
@@ -30,9 +25,7 @@
   --sidebar-width: 15rem;
   --sidebar-nav-margin: 0;
 
-  --base-color: #dce1e4;
   --base-font-size: 1.35rem;
-  --base-background-color: #17171d;
 
   --search-margin: 0.5rem 0;
 }
@@ -54,7 +47,6 @@ p.footer {
   text-align: right;
   margin: 2em 0 0 0;
   font-size: 80%;
-  color: #a0a0a0;
   position: relative;
   padding-top: 0.5em;
 }
@@ -66,7 +58,6 @@ p.footer:before {
   top: 0;
   height: 1px;
   width: 3.5rem;
-  border-top: 1px solid #595959;
 }
 
 textarea.feedback {
@@ -174,5 +165,13 @@ a.btn.submit {
 a.btn.submit:hover,
 a.btn.submit:focus {
   box-shadow: rgba(96, 110, 119, 0.25) 0px 2px 6px;
-  outline: 0px;
+}
+
+a.switch {
+  position: fixed;
+  right: 1rem;
+}
+
+a.switch img {
+  vertical-align: text-top;
 }
