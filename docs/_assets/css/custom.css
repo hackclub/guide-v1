@@ -175,3 +175,18 @@ a.switch {
 a.switch img {
   vertical-align: text-top;
 }
+
+@media only screen and (max-width: 600px) {
+  :root {
+    --base-font-size: 1.2rem;
+    --base-line-height: 1.65;
+  }
+
+  .markdown-section {
+    padding: 2rem 25px;
+  }
+
+  h1, h2 {
+    line-height: 1.2!important;
+  }
+}
