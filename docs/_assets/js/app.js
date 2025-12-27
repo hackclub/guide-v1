@@ -9,7 +9,7 @@ window.$docsify = {
   auto2top: true,
   search: {
     placeholder: "Type to search",
-    noData: "No results!",
+    noData: "Orpheus searched far and wide, yet found no results.",
     depth: 2,
     hideOtherSidebarContent: true
   },
