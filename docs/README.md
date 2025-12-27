@@ -12,4 +12,4 @@ The guide is organized in sections, with each section containing information you
 
 ## Contributing
 
-This guide is created back in 2016 by Hack Club staff in our GitHub [repository](https://github.com/hackclub/hackclub/blob/f418eea0e904938e0765f73d58216710d936a1f7/clubs/README.md), but over the years, our community contributes to keep this guide up-to-date. It is now maintained as a separate open-source knowledge base. If you wish to contribute to this guide, you should check out its [GitHub repository](https://github.com/hackclub/guide).
+This guide is created back in 2016 by Hack Club staff in our GitHub [repository](https://github.com/hackclub/hackclub/blob/f418eea0e904938e0765f73d58216710d936a1f7/clubs/README.md), but over the years, our community contributes to keep this guide up-to-date. It is now maintained as a separate open-source knowledge base. It was archived sometime ago, but it has now been dearchived by the new Clubs team. If you wish to contribute to this guide, you should check out its [GitHub repository](https://github.com/hackclub/guide).
