@@ -7,9 +7,8 @@ Before starting your first meeting, be sure to make sure that the following webs
 - https://jams.hackclub.com (optional, but very recommended!)
 - https://forms.hackclub.com 
 - https://auth.hackclub.com
-- https://hackclub.enterprise.slack.com
-- https://github.com
-- https://github.dev
+- https://hackclub.slack.com
+- https://github.com and https://github.dev
 - https://spaces.hackclub.com
 - https://leaders.hackclub.com (optional, but very recommended!)
 
