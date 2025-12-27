@@ -1,7 +1,7 @@
 /** Initialize Docsify */
 window.$docsify = {
-  name: "Leadership Guide",
-  title: "Guide",
+  name: "Leader's Guide",
+  title: "Leader's Guide",
   logo: "/_media/branding/favicon.svg",
   loadSidebar: true,
   maxLevel: 3,
@@ -14,10 +14,10 @@ window.$docsify = {
     hideOtherSidebarContent: true
   },
   footer: {
-    text: "Contribute to This Page",
+    text: "Contribute to this page",
     repo: "hackclub/guide",
     cssClass: "footer",
-    custom: `Made with 💖 by <a href="https://github.com/itsmingjie">@itsmingjie</a>. Licensed <a href="https://github.com/hackclub/guide/blob/master/LICENSE.md">MIT</a>.`
+    custom: `Made with <3 and :3 by <a href="https://github.com/whatbeato">@whatbeato</a>. Licensed <a href="https://github.com/hackclub/guide/blob/master/LICENSE.md">MIT</a>.`
   },
   notFoundPage: true
 };
