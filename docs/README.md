@@ -2,7 +2,7 @@
 
 Welcome, leader! Thanks for starting a Hack Club, and we're super excited to have you here!
 
-!> Heads up! This guide is being updated, and may contain outdated content. If you find any issues, please make an issue in our [GitHub repository](https://github.com/hackclub/guide).
+!> Heads up! This guide is being updated as we speak (because it has been unarchived), and may contain outdated content. If you find any issues, please make an issue in our [GitHub repository](https://github.com/hackclub/guide).
 
 ## How to use this guide
 
