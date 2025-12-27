@@ -21,6 +21,8 @@ When it comes to pitching Hack Club, keep it short and simple, like the followin
 >
 > Hack Club is like a continuous hackathon that happens twice a week at school.
 
+To collect those sign ups, you can use a simple club sign up sheet from your school or a QR Code with Fillout or a similar form platform.
+
 Now to go into depth on the three channels for driving sign-ups.
 
 ## Club Fair
@@ -33,4 +35,4 @@ The best way to take advantage of your school's "club day" (or equivalent) is to
 
 Having posters for your club in the hallways and in classrooms exposes new members to your club and reminds people where and when the club meets.
 
-Check out the [Marketing Tab](https://leaders.hackclub.com/marketing) on the Leaders Dashboard for some awesome examples created by other clubs. Some older posters are also available on [GitHub](https://github.com/hackclub/hackclub/tree/master/clubs/posters).
+Check out the [Resources Category](https://toolbox.hackclub.com/?category=Resources) on the Hack Club Toolbox for some awesome posters that we ship to your house, for free! Some older posters are also available on [GitHub](https://github.com/hackclub/hackclub/tree/master/clubs/posters).
