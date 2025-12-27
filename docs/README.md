@@ -2,6 +2,8 @@
 
 Welcome, leader! Thanks for starting a Hack Club, and we're super excited to have you here!
 
+!> Heads up! This guide is being updated, and may contain outdated content. If you find any issues, please make an issue in our [GitHub repository](https://github.com/hackclub/guide).
+
 ## How to use this guide
 
 Starting a Hack Club is easy, but running a great club requires some thinking. Over the past years, Hack Club has worked with hundreds of club leaders and event organizers like you, helping them organize hundreds of club meetings and community events every year. This guide is a product of years of experience from the Hack Club leadership community, as well as tens of thousands of hours of work from our staff members. We sincerely hope that this guide will make your leadership experience easy, and that your club members can have an amazing time attending your meetings and events.
