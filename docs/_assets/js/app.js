@@ -1,7 +1,7 @@
 /** Initialize Docsify */
 window.$docsify = {
-  name: "<span style='font-size: 0.50em;'>Leader's Guide</span>",
-  title: "Leader's Guide",
+  name: "Leader's Guide",
+  title: "<span style='font-size: 0.50em;'>Leader's Guide</span>",
   logo: "/_media/branding/favicon.svg",
   loadSidebar: true,
   maxLevel: 3,
