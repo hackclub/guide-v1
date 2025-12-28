@@ -33,4 +33,4 @@ The best way to take advantage of your school's "club day" (or equivalent) is to
 
 Having posters for your club in the hallways and in classrooms exposes new members to your club and reminds people where and when the club meets.
 
-Check out the [Marketing Tab](https://leaders.hackclub.com/marketing) on the Leaders Dashboard for some awesome examples created by other clubs. Some older posters are also available on [GitHub](https://github.com/hackclub/hackclub/tree/master/clubs/posters).
+Check out the [Resources Category](https://toolbox.hackclub.com/?category=Resources) on the Hack Club Toolbox for some awesome posters that we ship to your house, for free! Some older posters are also available on [GitHub](https://github.com/hackclub/hackclub/tree/master/clubs/posters).
