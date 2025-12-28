@@ -36,7 +36,7 @@ function install(hook, vm) {
           <div class="content-inner">
             <textarea name="feedback" id="feedback" class="feedback" placeholder="I want to see information about ..." /></textarea>
             <div style="text-align: center">
-              <a class="btn submit" id="feedback-submit" onclick="submitFeedback()">Submit</a>
+              <a class="btn submit" id="feedback-submit" onclick="submitFeedback()">Continue</a>
             </div>
           </div>
         </div>
@@ -60,27 +60,11 @@ function install(hook, vm) {
 
 $docsify.plugins = [].concat(install, $docsify.plugins);
 
-/** Ajax form Submission */
+/** Redirect to feedback form */
 function submitFeedback() {
-  if (document.getElementById("feedback").value != "") {
-    var xhr = new XMLHttpRequest();
-    var url = "https://usebasin.com/f/be3a90fcc3dd.json";
-    xhr.open("POST", url, true);
-    xhr.setRequestHeader("Content-Type", "application/json");
-    xhr.onreadystatechange = function() {
-      if (xhr.readyState === 4 && xhr.status === 200) {
-        var json = JSON.parse(xhr.responseText);
-        console.log(json.feedback + ", " + json.pageUrl);
-        document.getElementById("feedback-form").innerHTML = `
-          <h4 style="color: #d3d3d3">Thanks for your feedback! We‘ll keep improving this leadership guide. In the mean time, if you have more questions or suggestions, 
-          feel free to chat with us in <a href="https://hackclub.slack.com/messages/C0C78SG9L/">#hq</a>!</h4>
-        `;
-      }
-    };
-    var data = JSON.stringify({
-      feedback: document.getElementById("feedback").value,
-      pageUrl: window.location.hash
-    });
-    xhr.send(data);
+  var feedback = document.getElementById("feedback").value;
+  if (feedback != "") {
+    var encodedFeedback = encodeURIComponent(feedback);
+    window.location.href = "https://forms.hackclub.com/guide-feedback?feedback=" + encodedFeedback;
   }
 }
