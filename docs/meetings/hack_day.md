@@ -8,8 +8,8 @@ Here's our suggested schedule for Hack Days:
 4. Demos (30 minutes)
 5. Next meeting reminder (5 minutes)
 
-[Click here][slideshow] for our slideshow template for Hack Days. Make
-sure to [customize it](/meetings/?id=slideshow-presentations).
+[Click here][slideshow] for our slideshow template for Hack Days. Feel
+free to [customize it](/meetings/?id=slideshow-presentations) to match your club's style.
 
 [slideshow]: https://docs.google.com/presentation/d/1uIcNYRY5ZLaLgEMO_1p-ZPmdaxeh1osy-0UpDjG2Z7w/edit?usp=sharing
 
@@ -27,13 +27,13 @@ comfortable asking for help.
 
 ## Running Demos
 
-You'll want to do the same thing you did in the second meeting to run demos.
-[Click here](/meetings/second_meeting?id=demos) to go to second meeting's section on running demos.
+We recommend doing the same thing you did in the second meeting to run demos.
+[Click here](/meetings/second_meeting?id=demos) to go to second meeting's section on running demos. Adjust the format as needed based on what works for your club.
 
 ## Reminder for Next Meeting
 
-- Five minutes before the meeting is over, make sure to hit the last slide in
-  the presentation and tell everyone the time and place for the next meeting.
-- Let everyone know they’ll be doing a new workshop next time, and give a
+- Five minutes before the meeting is over, consider hitting the last slide in
+  the presentation and telling everyone the time and place for the next meeting.
+- Let everyone know they'll be doing a new workshop next time, and give a
   brief and enticing description.
 - Thank them for coming!

@@ -1,9 +1,6 @@
 # Meeting Templates
 
-As previously mentioned, Hack Club meetings alternate between running workshops
-and free-form hacking (with demos). From here on out, we'll refer to meetings
-with workshops as _workshop days_ and meetings with free-form hacking and demos
-as _hack days_.
+As previously mentioned, Hack Club meetings generally alternate between running workshops and free-form hacking (with demos). From here on out, we'll refer to meetings with workshops as _workshop days_ and meetings with free-form hacking and demos as _hack days_.
 
 ## Slideshow Presentations
 
@@ -27,7 +24,7 @@ Template][hack_day_template]. To use the presentations:
        or two examples of what it would look like to expand on the
        workshop, as inspiration.
      - Include a link at the end of the workshop to
-       `workshops.hackclub.com/[WORKSHOP]`.
+       `workshops.hackclub.com/[WORKSHOP]` (if you are using one of the workshops from there!).
    - For Hack Day:
      - Add the images corresponding to the workshop started in the previous
        Workshop Day, perhaps one standard example and a few examples that take
@@ -37,9 +34,8 @@ Template][hack_day_template]. To use the presentations:
 4. Double check: make sure you have replaced any text in brackets, like
    `[HIGH_SCHOOL]`, with the proper information for your club, as well as any
    sample images, with actual images.
-5. Share your customized presentation with your leadership team and get
-   feedback.
-6. Publish to your club's website.
+5. Share with your team and get feedback!
+6. Publish to your club's website or just display it on the screen during the workshop. Feel free to share it with the participants later that day or during the workshop as well.
 
 [first_meeting_template]: https://docs.google.com/presentation/d/1QhErlJS6rnqu78guPBWuJ1SUyPJKLbxzLNuSN9qVw0c/edit
 [second_meeting_template]: https://docs.google.com/presentation/d/1WCerU9JhJY6L5kM7SrIlYcABwxpqcjmxmSRXilvWAaY/edit

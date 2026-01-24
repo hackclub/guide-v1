@@ -7,7 +7,7 @@ room and demo their website. As in the first meeting, bringing food is a good
 idea 😉.
 
 [Click here][second_meeting_template] for our slideshow template for the second
-meeting. Make sure to [customize it](#slideshow-presentations).
+meeting. Feel free to [customize it](/meetings/?id=slideshow-presentations) to fit your club's style.
 
 Here's our suggested schedule:
 
@@ -36,17 +36,17 @@ let them know what they'll be doing in this meeting. In addition to sharing the
 meeting's schedule, they're useful for sharing upcoming events, upcoming guest
 visits, and any other information relevant to your members.
 
-Tell your members that for this meeting, they're going to continue where they
+We recommend telling your members that for this meeting, they're going to continue where they
 left off and continue building their websites. 30 minutes before the end of the
 meeting, everyone will come up to the front and demo the websites they've
 built. If they don't finish their website before demos, that's okay -- they'll
 demo whatever they have.
 
-After announcements, you're going to give an example of what a demo looks like.
+After announcements, you can give an example of what a demo looks like.
 
 ## Example Demo
 
-You'll want to give an example of what a demo looks like so your members know
+It's a good idea to give an example of what a demo looks like so your members know
 what to expect at the end of the meeting. The best way to do this is to demo a
 project that you or another person have built for the Personal Website
 workshop.
@@ -73,7 +73,7 @@ too loud -- people should feel comfortable talking with one another).
 Before getting to the demos themselves, give your members 30, 15 minute, and 5
 minute warnings so they aren't caught off guard.
 
-30 minutes before demos start, have everyone email you a link to their website.
+We recommend having everyone email you a link to their website 30 minutes before demos start.
 After making this announcement, go to each person individually to confirm that
 they emailed you a link. If they run into any trouble, help them now. Hackers
 will be able to continue to add to their websites after they email you the link
@@ -85,7 +85,7 @@ it's fine to demo whatever they have.
 hard to facilitate and you're going to have to be detail-oriented when running
 them.**
 
-To run the demos themselves, pick a hacker to demo first and a direction to
+To run the demos themselves, one approach is to pick a hacker to demo first and a direction to
 form "the line" for demoing in (e.g., clockwise around the room). Have the
 first person come up and pull up their website from your email. Have the person
 who'll demo second also come up and be ready to start their demo as soon as the
@@ -98,8 +98,8 @@ members doing this with you -- you want the person demoing to feel accomplished
 after they finish.
 
 Demos easily get backlogged, so it's important to keep them moving fast. Each
-demo should be a minute long -- make an announcement that everyone will need to
-keep their demos under a minute.
+demo should be around a minute long -- consider making an announcement that everyone will need to
+keep their demos under a minute. Of course, adjust the timing based on what works for your club size.
 
 [first_meeting_template]: https://docs.google.com/presentation/d/1QhErlJS6rnqu78guPBWuJ1SUyPJKLbxzLNuSN9qVw0c/edit
 [second_meeting_template]: https://docs.google.com/presentation/d/1WCerU9JhJY6L5kM7SrIlYcABwxpqcjmxmSRXilvWAaY/edit

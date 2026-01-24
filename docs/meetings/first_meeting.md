@@ -1,9 +1,8 @@
 # The First Meeting
 
-At the first meeting, start by explaining that Hack Club allows people to learn
-and build things together over the course of the year, and then have members
-begin building their _first real thing™_ (a personal website), using our
-[Personal Website](../workshops/personal_website/) workshop.
+At the first meeting, start by explaining that Hack Club allows people to learn and build things together over the course of the year. Then have members begin building their _first real thing™_ (a personal website) using our [Personal Website](https://www.canva.com/design/DAGr1zQLfE4/eqe5sSP6hE9-4SZez72QFA/view?utm_content=DAGr1zQLfE4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h25bb5bce98) workshop.
+
+That said, this is just our recommendation. You know your club best. Feel free to run any workshop or project that fits your community better.
 
 At the second meeting, club members will complete their websites and demo their
 work at the end.
@@ -25,7 +24,7 @@ Here are two quick tips to help that happen:
 We recommend the following format for your first meeting. There are
 corresponding slides in the [First Meeting
 presentation][first_meeting_template], and we've gone into more detail in the
-linked sections below.
+linked sections below. Feel free to adapt this structure to what works best for your club.
 
 1. [Wait for hackers (club members) to arrive (5 minutes)][1]
 2. [Introduction presentation (5 minutes)][2]
@@ -74,7 +73,7 @@ is, what you're going to be doing throughout the year, when you meet, and,
 _most importantly_, get them excited about the club.
 
 Refer to the [slideshow presentation][first_meeting_template], which contains
-slides to run with the introduction presentation.
+slides you can use with the introduction presentation. You're welcome to customize these slides or create your own.
 
 ## Name Game
 
@@ -91,10 +90,12 @@ far, in order. Continue doing this through the whole circle until everyone has
 gone. This will get significantly more difficult (and fun!) as more people go
 -- if someone gets stuck, encourage others to help them out.
 
+Of course, if you have a different icebreaker that works better for your group, feel free to use that instead.
+
 ## First Website Workshop
 
 To get members started, you'll want to run the [Personal
-Website](../workshops/personal_website/) workshop. It's going to walk
+Website](https://www.canva.com/design/DAGr1zQLfE4/eqe5sSP6hE9-4SZez72QFA/view?utm_content=DAGr1zQLfE4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h25bb5bce98) workshop. It's going to walk
 club members through the process of building their first website and getting it
 online. It'll also get them set up with all the tools they'll use throughout
 Hack Club.
@@ -129,16 +130,6 @@ that everyone knows they will be finishing the websites they started on and
 presenting them at the end. Most importantly, thank them for coming to this
 meeting!
 
-An effective way to remind people about club meetings is to send them a text
-message the night before. A popular service that lets you send announcements
-through text messages used by many of the clubs is called
-[Remind](https://remind.com). Just make sure to set up your Remind account the
-day before the meeting so you don't run into any issues. The end of the club
-meeting would be a really good time for everyone else to setup an account. All
-they need to do now is text `81010` with your Club's Remind code (like
-`@ehs-hacks`) and that'll add them to your remind. You'll be able to send them
-any announcements about club meetings via text message the night before. If any
-members are concerned about privacy, inform them Remind does not give out their
-phone number.
+An effective way to remind people about club meetings is to set up a group chat. Many clubs use Discord servers, WhatsApp groups, or simple group chats to send reminders the night before meetings. Choose whatever platform your members are most comfortable with. You can set this up at the end of the first meeting so everyone's already connected for future announcements.
 
 [first_meeting_template]: https://docs.google.com/presentation/d/1QhErlJS6rnqu78guPBWuJ1SUyPJKLbxzLNuSN9qVw0c/edit
