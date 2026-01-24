@@ -1,6 +1,6 @@
 # Planning Your Hack Club
 
-Hack Clubs are after-school sessions where people come together to **hack**—solve problems creatively.
+Hack Clubs are after-school sessions where people come together to **hack** (solve problems creatively).
 
 Hack Club meetings are structured in pairs, so that new projects can be started and demoed each week. The first of the two meetings includes an hour-long workshop to help get members started, and the second is a session of free-form hacking. This emphasis on building things echoes the spirit of hackathons, making Hack Club feel like a continuous hackathon.
 
