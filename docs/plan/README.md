@@ -2,7 +2,7 @@
 
 Hack Clubs are after-school sessions where people come together to **hack**—solve problems creatively.
 
-Hack Club meetings are structured in pairs, so that new projects can be started and demoed each week. The first of the two meetings includes an hour-long workshop to help get members started, and the second is a session of free-form hacking. This emphasis on building things echoes the spirit of hackathons, making Hack Club feel like a continuous hackathon.
+Hack Club meetings _can be_ structured in pairs, so that new projects can be started and demoed each week. The first of the two meetings includes an hour-long workshop to help get members started, and the second is a session of free-form hacking. This emphasis on building things echoes the spirit of hackathons, making Hack Club feel like a continuous hackathon.
 
 Throughout the year, Hack Clubs go to (and sometimes host) hackathons, work on large group projects, and, most importantly, develop into a thriving community of hackers at their high schools.
 

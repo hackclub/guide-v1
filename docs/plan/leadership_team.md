@@ -4,6 +4,6 @@ We recommend having 2-3 people running the club. When choosing your team, consid
 
 It's also a good idea to have a mix of genders on the team, we've noticed that club member demographics tend to reflect those of the leaders (i.e., if the leadership is all-male, the club will be almost all-male).
 
-When putting together the leadership team, choose one leader who is "in charge" (this will usually be you). This person will have the final authority to make changes in the club.
+When putting together your leadership team, aim for complementary skill sets. The best teams usually have at least one technical leader who can help with code problems and workshops, and one "charming" 😉 leader who excels at outreach, communication, and building community. You don't need a rigid hierarchy. Instead, let each leader own their strengths and collaborate on major decisions.
 
-A common pitfall is to create a democratic selection process where everyone has an equal vote on decisions. We've found that this tends not to work because it makes it too easy for less-active leaders to override decisions of the club president. The best system is one where leaders get a say proportional to their investment in the club and the easiest way to implement this is to have a fair leader who delegates authority.
+The key is making sure everyone on the team is genuinely invested. It's fine to divide responsibilities based on who's most passionate about what, but avoid a purely democratic process where less-active leaders can veto decisions. The clubs that work best have leaders who trust each other and make decisions together based on who's putting in the work.

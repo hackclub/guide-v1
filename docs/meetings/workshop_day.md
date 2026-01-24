@@ -9,7 +9,7 @@ Here's our suggested schedule:
 - Next meeting reminder (5 minutes)
 
 [Click here][workshop_day_template] for our slideshow template for Workshop
-Days. Make sure to [customize it](/meetings/?id=slideshow-presentations).
+Days. Feel free to [customize it](/meetings/?id=slideshow-presentations) to fit your club's needs.
 
 [workshop_day_template]: https://docs.google.com/presentation/d/1LnbH5c7K-V608jMXNk3VyoVaZLaEuet7faHZCbYhOCs/edit
 
@@ -21,9 +21,9 @@ they're in the right place.
 ## Workshop
 
 This'll be just like how you ran the first website workshop, except for the
-current workshop you're on. [Click here][first_workshop] for a link to the first workshop guidelines.
+current workshop you're on. [Click here][first_workshop] for a link to the first workshop guidelines. Of course, adapt the approach based on what works best for your club and the specific workshop you're running.
 
-[first_workshop]: /meetings/first_meeting?id=the-first-meeting
+[first_workshop]: /meetings/first_meeting
 
 ## Hacking
 
